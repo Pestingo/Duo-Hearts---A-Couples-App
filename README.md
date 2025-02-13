@@ -147,4 +147,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Pestingo - [GitHub Profile](https://github.com/pestingo)
 
-Project Link: [https://github.com/yourusername/duo-hearts](https://github.com/yourusername/duo-hearts)
+Project Link: [https://github.com/yourusername/duo-hearts]([https://github.com/yourusername/duo-hearts](https://github.com/Pestingo/Duo-Hearts---A-Couples-App.git))
